@@ -1,0 +1,21 @@
+{
+  "name": "video-closed-caption-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/junebeomlee/video-closed-caption-converter.git",
+  "author": "JUNE <creat.bliv@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "nodemon": "^2.0.21",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}

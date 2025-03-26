@@ -1,0 +1,66 @@
+﻿1
+01:00:00,000 --> 01:00:03,067
+Pop-on captions,
+pop on and off the screen.
+
+2
+01:00:03,067 --> 01:00:06,100
+They are used with programs
+with multiple characters.
+
+3
+01:00:06,100 --> 01:00:08,467
+They can be
+strategically placed
+
+4
+01:00:08,467 --> 01:00:11,167
+as to indicate to the viewer
+who is speaking.
+
+5
+01:00:11,167 --> 01:00:12,400
+For example,
+
+6
+01:00:12,400 --> 01:00:13,633
+if the person
+is on the left side
+
+7
+01:00:13,633 --> 01:00:14,733
+of the screen
+
+8
+01:00:14,733 --> 01:00:16,033
+the pop-on captions
+would appear
+
+9
+01:00:16,033 --> 01:00:17,600
+on the left side.
+
+10
+01:00:17,600 --> 01:00:18,967
+If they are
+in the middle,
+
+11
+01:00:18,967 --> 01:00:20,767
+the caption would appear
+in the middle.
+
+12
+01:00:20,767 --> 01:00:22,333
+Or, if they are on
+the right side
+
+13
+01:00:22,333 --> 01:00:23,567
+of the screen
+
+14
+01:00:23,567 --> 01:00:25,533
+caption would pop-on
+the right side.
+
